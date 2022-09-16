@@ -2,7 +2,6 @@
 -  👞 sónolittleshoe
 -  😪 19 y
 -  🦎 Engenharia da computação
--  https://www.instagram.com/http.pepsart/
 
 <div>
 <a href="https://github.com/Mordidooo">
