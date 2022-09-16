@@ -12,8 +12,6 @@
 <a href= "https://discord.gg/wrGBVwvqj7" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"="_blank"></a>
 <a href= "mailto:pedromoreira01092004lemos@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"="_blank"></a>
 <a href= "https://br.pinterest.com/Mordidooo/" target="_blank"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white"="_blank"></a>
-  
-  ![Snake animation](https://github.com/Mordidooo/Mordidooo/blob/output/github-contribution-grid-snake.svg)
 
- </div>
+</div>
  
