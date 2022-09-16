@@ -1,14 +1,12 @@
 ## Opa!opa! é o Pepa's
--  19 y 😪
+-  👞 sónolittleshoe
+-  😪 19 y 
+-  🦎 Eng da computação
+<a href="https://github.com/Mordidooo">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mordidooo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
+<img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/14/fb/3c/14fb3c5bea1d2dcf6f4f4e8c1bfd042a.jpg">
 
- - sónolittleshoe👞
-##
- <a href="https://github.com/Mordidooo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mordidooo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
- <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.pinimg.com/564x/aa/79/b3/aa79b39ba29d4ce45b3d1ec61dd8de00.jpg">
-
-##
- <div>
+<div>
 
  
  <div>
