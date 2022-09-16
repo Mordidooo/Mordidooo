@@ -1,7 +1,7 @@
 ## Opa!opa! é o Pepa's 😎
--  👞 sónolittleshoe
--  😪 19 y 
--  🦎 Eng da computação
+-  👞 sónolittleshoe;
+-  😪 19 y;
+-  🦎 Engenharia da computação;
 
 <div>
 <a href="https://github.com/Mordidooo">
