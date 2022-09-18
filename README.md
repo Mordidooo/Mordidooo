@@ -6,7 +6,7 @@
 <div>
 <a href="https://github.com/Mordidooo">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Mordidooo&show_icons=true&theme=onedark&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordidooo&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mordidooo&layout=compact&langs_count=7&theme=onedark"/>
  <div>
  <a href= "https://www.instagram.com/ppeps.jpg/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"="_blank"></a>
 <a href= "https://twitter.com/mordidooo" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"="_blank"></a>
